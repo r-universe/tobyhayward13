@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SK4FGA"]
 	path = SK4FGA
 	url = https://github.com/tobyhayward13/sci118uoa_forensicglassanalysis
-	shallow = true
 	subdir = SK4FGA
-	registered = true
